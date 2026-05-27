@@ -97,7 +97,7 @@ Abre un Pull Request
 # 📧 Contacto
 Si tienes preguntas o sugerencias, ¡conéctate conmigo!
 
-GitHub: @jonathan-TL
+GitHub: (https://github.com/jonathan-TL)
 
 
 # ⭐ ¡No olvides darle una estrella al proyecto si te fue útil! ⭐
