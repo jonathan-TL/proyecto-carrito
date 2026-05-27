@@ -63,31 +63,8 @@ cd tu-repositorio
 
 # Abrir con Live Server o directamente el index.html
 
-💻 Código Destacado
-Lógica principal del carrito
+# 📚 Lo que Aprendí
 
-// Manejo de cantidades para productos duplicados
-const existe = articulosCarrito.some(curso => curso.id === infoCurso.id);
-if (existe) {
-    const cursos = articulosCarrito.map(curso => {
-        if (curso.id === infoCurso.id) {
-            curso.cantidad++;
-            return curso;
-        }
-        return curso;
-    });
-    articulosCarrito = [...cursos];
-}
-
-
-Limpieza optimizada del HTML
-
-// Método eficiente para limpiar el DOM
-while(contenedorCarrito.firstChild) {
-    contenedorCarrito.removeChild(contenedorCarrito.firstChild);
-}
-
-📚 Lo que Aprendí
 Manipulación avanzada del DOM
 
 Event bubbling y delegación de eventos
@@ -98,7 +75,8 @@ Spread operator para inmutabilidad
 
 Optimización de rendimiento en el DOM
 
-🤝 Contribuciones
+# 🤝 Contribuciones
+
 ¡Las contribuciones son bienvenidas!
  Si tienes sugerencias para mejorar el proyecto o implementar nuevas funcionalidades:
 
@@ -113,16 +91,16 @@ Push a la rama (git push origin feature/NuevaFuncionalidad)
 Abre un Pull Request
 
 
-📝 Estado del Proyecto
+# 📝 Estado del Proyecto
 🚧 En desarrollo activo - Faltan implementar algunas funcionalidades pero el core del carrito ya funciona correctamente.
 
-📧 Contacto
+# 📧 Contacto
 Si tienes preguntas o sugerencias, ¡conéctate conmigo!
 
 GitHub: @jonathan-TL
 
 
-⭐ ¡No olvides darle una estrella al proyecto si te fue útil! ⭐
+# ⭐ ¡No olvides darle una estrella al proyecto si te fue útil! ⭐
 
 
 
