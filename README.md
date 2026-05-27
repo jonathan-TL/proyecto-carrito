@@ -49,12 +49,12 @@ proyecto-carrito/
 
 ## 🚀 Cómo Usar el Proyecto
 
-### Opción 1: Ver en vivo (si está desplegado)
+### Opción 1: Ver en vivo
 https://jonathan-tl.github.io/proyecto-carrito/
 
 ### Opción 2: Clonar y ejecutar localmente
 
-```bash
+
 # Clonar el repositorio
 git clone https://github.com/tu-usuario/tu-repositorio.git
 
